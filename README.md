@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NethukaNethsaraGithub
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning node js
+- 👀 I’m interested in Java, Css, Html, C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
