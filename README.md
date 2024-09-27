@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @NethukaNethsaraRanasinghe
-- 👀 I’m interested in Java, Css, Html, C++, JavaScript
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java, Css, Html, JavaScript, C/C++, ASM, Python and PHP
+- 🌱 I’m currently learning Python and JavaScript
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play Minecraft :D
+- ⚡ Fun fact: I love coding!
 
 <!---
 NethukaNethsaraRanasinghe/NethukaNethsaraRanasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
