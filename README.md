@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NethukaNethsaraRanasinghe.
-- 👀 I’m interested in Java, CSS, HTML, JavaScript, C/C++/C#, ASM, Python, TypeScript, Go, Rust, Ruby, PHP.
+- 👀 I’m interested in Java, CSS, HTML, JavaScript, C/C++/C#, ASM, Python, TypeScript, Go, Rust, Ruby, PHP, Bash.
 - 🌱 I’m currently learning Machine Learning
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I own NeXonSystems, I also love coding and playing games!
