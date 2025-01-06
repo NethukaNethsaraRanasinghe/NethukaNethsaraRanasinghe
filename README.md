@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, CSS, HTML, JavaScript, C/C++/C#, ASM, Python, TypeScript, Go, Rust, Ruby, PHP, Bash, Swift.
 - 🌱 I’m currently learning Machine Learning
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I own NeXonSystems, I also love coding and playing games!
+- ⚡ Fun fact: I own NeXonSystems, NeXeonAI and VelocityDashboard. I also love coding and playing games!
 
 <!---
 NethukaNethsaraRanasinghe/NethukaNethsaraRanasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
