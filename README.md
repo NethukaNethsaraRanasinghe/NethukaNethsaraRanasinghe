@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NethukaNethsaraRanasinghe.
-- 👀 I’m interested in Java, CSS, HTML, JavaScript, C/C++/C#, ASM, Python, TypeScript, Go, Rust, Ruby, PHP, Bash, Swift.
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in ML and API development
+- 🌱 I’m currently learning API development
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I own NeXonSystems, NeXeonDash, AxionAI and Co-Own NeXeonAI. I also love coding and playing games!
 
